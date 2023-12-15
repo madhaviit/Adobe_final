@@ -35,7 +35,6 @@ This task involves content generation, aiming to generate the content of the twe
 
 ## Way to Use
 
-
 ### Task 2
 
 In this task, you have to download the three notebooks, provided in the Task 2 folder in the Notebooks folder, and the steps are as follows:
