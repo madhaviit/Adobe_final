@@ -25,7 +25,7 @@ This task involves content generation, aiming to generate the content of the twe
 
 ### Task 2
 
-
+In this task, you have to download the three notebooks, provided in the 
 
 ## Report
 
