@@ -1,7 +1,7 @@
 these are the datasets used in the notebooks
 these datasets are available on kaggle under the following users:
 
-ArnavJain2710:
+TheNetherWatcher:
 embeddings-adobe-bertweet
 huggingf-embeddings-content
 new-dataset-bertweet-embeddings
@@ -15,10 +15,8 @@ adobe-test-embeddings
 test-set-adobe
 final-weights-test-2
 Bertweet classifier model
-
-abhinavgangil:
 testset
 classifiers
 berttweetclassifier
 
-for accessing the dataset, visit  adobe-all-dataset-inter-iit of arnavjain2710.
+for accessing the dataset, visit  adobe-all-dataset-inter-iit of TheNetherWatcher.
