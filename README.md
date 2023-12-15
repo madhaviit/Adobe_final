@@ -13,6 +13,7 @@ Therefore, the outline of this task was to make a Machine Learning model that wi
 
 ### Steps to Run
 
+All the datasets are provided in datasets name.txt in /Notebooks/Task 1 folder.  
 Inference:
 First create the BERTweet embeddings for all attributes of the content of each dataset.
 This includes username , date , content , content+date+username.
@@ -33,9 +34,7 @@ load the dataset into the embeddings generator. Generate the embeddings in the s
 
 This task involves content generation, aiming to generate the content of the tweet, given the metadata of the tweet, i.e. given the number of likes, content attached, time, usernames etc. predict what would be the tweet. This is beneficial if a user is not able to think about the tweet content, then it can just give the model the data and the target likes it wants, and the mdel will generate the content of the tweet.
 
-## Way to Use
-
-### Task 2
+### Steps to Run
 
 In this task, you have to download the three notebooks, provided in the Task 2 folder in the Notebooks folder, and the steps are as follows:
 
