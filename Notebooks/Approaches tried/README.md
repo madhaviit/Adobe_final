@@ -14,7 +14,7 @@ This folder contains all the notebooks that we have used in approaching the give
 
 - [This](./Neural%20Hermes/) contains the notebook for like-prediction and content generation using Neural Hermes base-model
 
-- [This](./Hermes%20Finetuning/) contains the notebook for fine-tuning it for better quality content generation
+- [This](./Hermes%20Finetuning/) contains the notebook for fine-tuning Neural Hermes model for better quality content generation
 
 - [This](./Obsidean/) contains the notebook for like-prediction and content generation using Obsidean model
 
