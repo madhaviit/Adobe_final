@@ -1,8 +1,8 @@
 # Task 1
 
-## Steps to run 
+- All the dataset used in this task have been provided in [this](./dataset%20names.txt) file.
 
-- All the dataset used in this task have been provided in [this](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Notebooks/Task%201/dataset%20names.txt) file.
+## Steps to run 
 
 ### Training:
 
@@ -42,4 +42,4 @@ Sorry for the inconvenience.
 
 The embeddings and model weights are stored and can be loaded from Kaggle. The datasets are under the user TheNetherWatcher in its shared-with-you datasets section.
 
-Also we have given a text file containing all the datasets which will be required **for training and inference** to be downloaded in a [here](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Notebooks/Task%201/dataset%20names.txt).
+Also we have given a text file containing all the datasets which will be required **for training and inference** to be downloaded in a [here](./dataset%20names.txt).
