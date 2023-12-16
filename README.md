@@ -29,4 +29,4 @@ Predicted content for the test dataset on all the different metric are provided 
 
 ## Report
 
-A detailed description for these tasks is provided in [this](https://drive.google.com/file/d/1yNxYYJu-lA9aYMAmSa6oar2Sh2nZFsGJ/view?usp=sharing) report.
+A detailed description for these tasks, their approcahes and pros-cons of the  different techniques used is provided in [this](https://drive.google.com/file/d/1XMWaDJiMPXYMCujgg48VtTa72IiMQUyx/view?usp=sharing) report.
