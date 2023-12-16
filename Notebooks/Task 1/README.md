@@ -37,6 +37,8 @@ There were also some unwanted columns generated which were then deleted in excel
 
 - During submission we realised that the m1-regressor and normal-classifier gave the best results for unseen time-period and m2-regressor and noraml-classifier gave the best results for unseen company task. Hence, these were used for final result evaluation.
 
+**NOTE** - Please load the embeddings from the Kaggle datasets provided by us. Since, the content depends on filename and relative file orders in the dataset. Therefore, it is advised to manually the datasets and preoceed with it.
+Sorry for the inconvenience.
 
 The embeddings and model weights are stored and can be loaded from Kaggle. The datasets are under the user TheNetherWatcher in its shared-with-you datasets section.
 
