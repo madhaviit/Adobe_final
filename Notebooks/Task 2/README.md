@@ -4,9 +4,9 @@
 
 In this task, you have to download the three notebooks, provided in the Task 2 folder in the Notebooks folder, and the steps are as follows:
 
-- Using the media captions generator notebook to generate the captions of the media present in the dataset. (For the test data, captions are provided [here] (https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/tree/main/Dataset/Testing%20Data) under the names cc_captions for content generation for unseen company and ct_captions for content generation for unseen time period, as captions for the first task was not necessary)
+- Using the media captions generator notebook to generate the captions of the media present in the dataset. (For the test data, captions are provided [here](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/tree/main/Dataset/Testing%20Data) under the names cc_captions for content generation for unseen company and ct_captions for content generation for unseen time period, as captions for the first task was not necessary)
 
-- Combine the generated captions with the give data, to make a final file. (For the given data, cstc and cstt are the two file for conetnt generation for unseen company and time respectively, which are provided [here] (https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/tree/main/Dataset/Testing%20Data))
+- Combine the generated captions with the give data, to make a final file. (For the given data, cstc and cstt are the two file for conetnt generation for unseen company and time respectively, which are provided [here](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/tree/main/Dataset/Testing%20Data))
 
 - Fine tune the LlaMA-2 model using the LLaMA finetuning notebook to finetune the LlaMA model for our task.
 
@@ -14,6 +14,6 @@ In this task, you have to download the three notebooks, provided in the Task 2 f
 
 ## Final results
 
-#### For unseen comapany - [Here] (https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Results/content_simulation_test_company.xlsx)
+#### For unseen comapany - [Here](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Results/content_simulation_test_company.xlsx)
 
-#### For unseen time period - [Here] (https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Results/content_simulation_test_time.xlsx)
+#### For unseen time period - [Here](https://github.com/team22techmeetIITMadras/team22_interIIT_Adobe/blob/main/Results/content_simulation_test_time.xlsx)
