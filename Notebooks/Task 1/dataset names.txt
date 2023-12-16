@@ -1,7 +1,8 @@
-these are the datasets used in the notebooks
-these datasets are available on kaggle under the following users:
+These are the datasets used in the notebooks.
+These datasets are available on Kaggle under the following user's shared-with-you dataset section:
 
-TheNetherWatcher:
+TheNetherWatcher (username):
+
 embeddings-adobe-bertweet
 huggingf-embeddings-content
 new-dataset-bertweet-embeddings
@@ -18,5 +19,7 @@ Bertweet classifier model
 testset
 classifiers
 berttweetclassifier
+similarity2
 
-for accessing the dataset, visit  adobe-all-dataset-inter-iit of TheNetherWatcher.
+For accessing the training datasets , visit adobe-all-dataset-inter-iit of TheNetherWatcher in its shared-with-you section.
+If any dataset used is not mentioned here , they will be surely present in the shared-with-you section of TheNetherWatcher.
