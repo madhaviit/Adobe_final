@@ -43,3 +43,9 @@ Sorry for the inconvenience.
 The embeddings and model weights are stored and can be loaded from Kaggle. The datasets are under the user TheNetherWatcher in its shared-with-you datasets section.
 
 Also we have given a text file containing all the datasets which will be required **for training and inference** to be downloaded in a [here](./dataset%20names.txt).
+
+## Final results
+
+#### For unseen comapany - [Here](../../team_22_results/behaviour_simulation_test_company.xlsx)
+
+#### For unseen time period - [Here](../../team_22_results/behaviour_simulation_test_time.xlsx)
