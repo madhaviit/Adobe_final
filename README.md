@@ -15,7 +15,7 @@ Therefore, the outline of this task was to make a machine learning model that wi
 
 This task involves content generation, aiming to generate the content of the tweet, given the metadata of the tweet, i.e. given the number of likes, content attached, time, usernames etc. predict what would be the tweet. This is beneficial if a user is not able to think about the tweet content, then it can just give the model the data and the target likes it wants, and the mdel will generate the content of the tweet.
 
-[Task2](./Notebooks/Task%201/)
+[Task2](./Notebooks/Task%202/)
 
 ## Training Data
 
